@@ -1,0 +1,4 @@
+tensorflow
+opencv-contrib-python
+split-folders
+keras
